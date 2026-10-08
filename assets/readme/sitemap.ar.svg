@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-labelledby="t d">
+  <title id="t">خريطة الموقع: أربعة أقسام مرقّمة، لكل قسم اسم بالعربي والإنجليزي</title>
+  <desc id="d">Home, About, Services and Projects, numbered 01 to 04 as in the site's navigation, with Arabic labels الرئيسية، من نحن، خدماتنا، أعمالنا.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#090909"/><stop offset="1" stop-color="#0D2129"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.42">
+      <stop offset="0" stop-color="#1B7F93" stop-opacity="0.45"/><stop offset="1" stop-color="#1B7F93" stop-opacity="0"/>
+    </radialGradient>
+    <clipPath id="card"><rect width="1200" height="260" rx="24"/></clipPath>
+  </defs>
+  <g clip-path="url(#card)">
+    <rect width="1200" height="260" fill="url(#bg)"/>
+    <rect width="1200" height="260" fill="url(#glow)"/>
+    <rect width="1200" height="6" fill="#E0742B"/>
+  </g>
+  <g transform="translate(886 40)">
+    <rect width="250" height="180" rx="16" fill="#FFFFFF" fill-opacity="0.04" stroke="#8FE0EE" stroke-opacity="0.22"/>
+    <rect x="206" y="24" width="20" height="20" fill="#E0742B"/>
+    <text x="24" y="42" text-anchor="start" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" fill="#E0742B">01</text>
+    <text x="226" y="106" text-anchor="end" font-family="Bahnschrift, 'DIN Alternate', 'DIN Condensed', 'Arial Narrow', 'Helvetica Neue', Arial, sans-serif" font-weight="700" font-size="34" fill="#F6F1E7">Home</text>
+    <text x="226" y="150" direction="rtl" text-anchor="start" font-family="'Segoe UI', Tahoma, 'Noto Naskh Arabic', 'Geeza Pro', 'Noto Sans Arabic', sans-serif" font-weight="600" font-size="28" fill="#8FE0EE">الرئيسية</text>
+  </g>
+  <g transform="translate(612 40)">
+    <rect width="250" height="180" rx="16" fill="#FFFFFF" fill-opacity="0.04" stroke="#8FE0EE" stroke-opacity="0.22"/>
+    <rect x="206" y="24" width="20" height="20" fill="#8FE0EE"/>
+    <text x="24" y="42" text-anchor="start" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" fill="#E0742B">02</text>
+    <text x="226" y="106" text-anchor="end" font-family="Bahnschrift, 'DIN Alternate', 'DIN Condensed', 'Arial Narrow', 'Helvetica Neue', Arial, sans-serif" font-weight="700" font-size="34" fill="#F6F1E7">About</text>
+    <text x="226" y="150" direction="rtl" text-anchor="start" font-family="'Segoe UI', Tahoma, 'Noto Naskh Arabic', 'Geeza Pro', 'Noto Sans Arabic', sans-serif" font-weight="600" font-size="28" fill="#8FE0EE">من نحن</text>
+  </g>
+  <g transform="translate(338 40)">
+    <rect width="250" height="180" rx="16" fill="#FFFFFF" fill-opacity="0.04" stroke="#8FE0EE" stroke-opacity="0.22"/>
+    <rect x="206" y="24" width="20" height="20" fill="#FFFFFF"/>
+    <text x="24" y="42" text-anchor="start" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" fill="#E0742B">03</text>
+    <text x="226" y="106" text-anchor="end" font-family="Bahnschrift, 'DIN Alternate', 'DIN Condensed', 'Arial Narrow', 'Helvetica Neue', Arial, sans-serif" font-weight="700" font-size="34" fill="#F6F1E7">Services</text>
+    <text x="226" y="150" direction="rtl" text-anchor="start" font-family="'Segoe UI', Tahoma, 'Noto Naskh Arabic', 'Geeza Pro', 'Noto Sans Arabic', sans-serif" font-weight="600" font-size="28" fill="#8FE0EE">خدماتنا</text>
+  </g>
+  <g transform="translate(64 40)">
+    <rect width="250" height="180" rx="16" fill="#FFFFFF" fill-opacity="0.04" stroke="#8FE0EE" stroke-opacity="0.22"/>
+    <rect x="206" y="24" width="20" height="20" fill="#E0742B"/>
+    <text x="24" y="42" text-anchor="start" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" fill="#E0742B">04</text>
+    <text x="226" y="106" text-anchor="end" font-family="Bahnschrift, 'DIN Alternate', 'DIN Condensed', 'Arial Narrow', 'Helvetica Neue', Arial, sans-serif" font-weight="700" font-size="34" fill="#F6F1E7">Projects</text>
+    <text x="226" y="150" direction="rtl" text-anchor="start" font-family="'Segoe UI', Tahoma, 'Noto Naskh Arabic', 'Geeza Pro', 'Noto Sans Arabic', sans-serif" font-weight="600" font-size="28" fill="#8FE0EE">أعمالنا</text>
+  </g>
+</svg>

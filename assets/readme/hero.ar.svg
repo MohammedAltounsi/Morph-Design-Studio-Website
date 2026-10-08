@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="t d">
   <title id="t">مورف، موقع هوية ثنائي اللغة لاستوديو تصميم</title>
-  <desc id="d">واجهة داكنة بألوان الموقع نفسه: عنوان LET'S MORPH! واسم الاستوديو، وشعار مورف المربّع يتجمّع من مربعات برتقالية وسماوية وبيضاء.</desc>
+  <desc id="d">خلفية داكنة بألوان الموقع: عنوان LET'S MORPH! واسم الاستوديو، وشعار مورف المكوّن من مربعات، وحوله مربعات برتقالية وسماوية وبيضاء متفرقة.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#090909"/><stop offset="1" stop-color="#0D2129"/>
@@ -20,7 +20,7 @@
     <text x="1140" y="196" text-anchor="end" font-family="Bahnschrift, 'DIN Alternate', 'DIN Condensed', 'Arial Narrow', 'Helvetica Neue', Arial, sans-serif" font-weight="700" font-size="108" fill="#F6F1E7">LET'S</text>
     <text x="1140" y="296" text-anchor="end" font-family="Bahnschrift, 'DIN Alternate', 'DIN Condensed', 'Arial Narrow', 'Helvetica Neue', Arial, sans-serif" font-weight="700" font-size="108" fill="#F6F1E7">MORPH!</text>
     <text x="1136" y="346" direction="rtl" text-anchor="start" font-family="'Segoe UI', Tahoma, 'Noto Naskh Arabic', 'Geeza Pro', 'Noto Sans Arabic', sans-serif" font-weight="700" font-size="28" fill="#F6F1E7">مورف · استوديو تصميم</text>
-    <text x="1136" y="384" direction="rtl" text-anchor="start" font-family="'Segoe UI', Tahoma, 'Noto Naskh Arabic', 'Geeza Pro', 'Noto Sans Arabic', sans-serif" font-size="23" fill="#C3CED2">عربي وإنجليزي في كل قسم، على الشاشة الكبيرة والجوال.</text>
+    <text x="1136" y="384" direction="rtl" text-anchor="start" font-family="'Segoe UI', Tahoma, 'Noto Naskh Arabic', 'Geeza Pro', 'Noto Sans Arabic', sans-serif" font-size="23" fill="#C3CED2">موقع لاستوديو معارض وتسويق.</text>
   </g>
   <g id="morph-motif">
     <rect x="554" y="134" width="12" height="12" fill="#E0742B" opacity="0.25" transform="rotate(18 560 140)"/>
